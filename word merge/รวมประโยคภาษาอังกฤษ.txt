@@ -1,0 +1,51 @@
+คำอธิบาย
+
+ให้ทำการเรียบเรียงประโยคที่กำหนดให้ออกมาเป็นประโยคเดียว
+
+รูปเเบบ Input
+
+บรรทัดแรกจำนวนประโยค
+
+บรรทัดที่เหลือ เป็นประโยคที่ต้องนำมารวมกัน
+
+รูปเเบบ Output
+
+ประโยคที่ทำการรวมทุกประโยคเข้าด้วยกัน
+
+ข้อจำกัด
+
+จำนวนประโยคที่ให้จะไม่เกิน 10 ประโยค
+
+-----------------------------------------
+ตัวอย่างที่1
+Input:
+
+2
+The harder you work for something, the
+something, the greater you?ll feel when you achieve it.
+Output:
+
+The harder you work for something, the greater you?ll feel when you achieve it.
+
+-----------------------------------------
+ตัวอย่างที่2
+Input:
+
+3
+The fool doth think he is wise,
+wise man knows himself to be a fool.
+wise, but the wise
+Output:
+
+The fool doth think he is wise, but the wise man knows himself to be a fool.
+
+-----------------------------------------
+ตัวอย่างที่3
+Input:
+
+2
+few, do wrong to none.
+Love all, trust a few, do
+Output:
+
+Love all, trust a few, do wrong to none.
